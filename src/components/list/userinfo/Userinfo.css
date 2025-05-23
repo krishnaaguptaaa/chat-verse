@@ -1,0 +1,13 @@
+.userinfo{
+    padding: 15px;
+    display: flex;
+   justify-content:space-between;
+    align-items: center;
+}
+.options{
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    padding: 30px;
+    margin-top: 8px; /* add some spacing below the icon */
+}

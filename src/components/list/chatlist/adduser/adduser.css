@@ -1,0 +1,30 @@
+.addUser{
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    padding: 30px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.addform{
+    input{
+        padding: 20px;
+        border-radius: 10px;
+        border: none;
+        background-color: white;
+        outline: none;
+        color: black;
+    }
+    button{
+        padding: 20px;
+    }
+}
+.alluser{
+    margin-top: 50px;
+    button{
+        padding: 10px;
+    }
+}

@@ -1,0 +1,54 @@
+.detailbox{
+    width: max-content;
+    height: max-content;
+    margin: auto;
+    border-radius: 10px;
+    padding:25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+}
+.userinfo{
+    padding: 20px;
+}
+.optionsInfo{
+    padding: 20px;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    img{
+        padding: 8px;
+        margin-left: 40px;
+        cursor: pointer;
+    }
+}
+.photos{
+    margin-top: 20px;
+}
+
+.photoItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     
+}
+
+.photoDetail{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    span{
+        font-size:15px;
+        font-weight: 300;
+        color:#a5a5a5;
+    }
+}
+
+
