@@ -10,9 +10,9 @@ import { auth } from "./lib/firebase";
 import { useUserStore } from "./lib/userStore";
 import { useChatStore } from "./lib/chatStore";
 // Components
-import List from "./components/list/list";
+import List from "./components/list/List";
 import Chat from "./components/chat/Chat";
-import Detail from "./components/detail/Detail";
+// import Detail from "./components/detail/Detail";
 import Login from "./components/login/Login";
 import Signup from "./components/login/Signup";
 import Intro from "./components/intro/Intro";

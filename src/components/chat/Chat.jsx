@@ -11,7 +11,7 @@ import { db } from "../../lib/firebase";
 import { useChatStore } from "../../lib/chatStore";
 import { useUserStore } from "../../lib/userStore";
 import Detail from "../detail/Detail";
-import { IoIosArrowRoundBack } from "react-icons/io";
+
 
 import "./Chat.css";
 
