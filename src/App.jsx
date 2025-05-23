@@ -35,13 +35,7 @@ const App = () => {
   if (isLoading)
     return (
       <div
-        className="w-[90vw] h-[90vh] 
-        bg-[rgba(18,24,38,0.75)] 
-        border border-[rgba(255,255,255,0.1)] 
-        rounded-[16px] 
-        backdrop-blur-[20px] 
-        backdrop-saturate-[180%] 
-        shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] 
+        className="
         flex items-center justify-center"
       >
         <span className="loader"></span>
@@ -50,8 +44,7 @@ const App = () => {
 
   return (
     <div
-      className="w-[90vw] h-[90vh] 
-      bg-[rgba(18,24,38,0.75)] 
+      className="w-[100vw] h-[100vh] 
       border border-[rgba(255,255,255,0.1)] 
       rounded-[16px] 
       backdrop-blur-[20px] 
