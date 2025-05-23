@@ -102,7 +102,7 @@ const Chat = () => {
           />
           <div className="flex flex-col gap-1">
             <span className="font-bold text-lg">{user.username}</span>
-            <p className="text-sm font-light text-[#a5a5a5]">{user.bio}</p>
+            {/* <p className="text-sm font-light text-[#a5a5a5]">{user.bio}</p> */}
           </div>
         </div>
         <div className="icons flex gap-4">

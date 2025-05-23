@@ -22,8 +22,8 @@
 }
 
 body {
-  background-image: url("/public/Space\ Aesthetic\ Desktop_Laptop\ Wallpaper.jpeg");
-  /* background-color: black; */
+  /* background-image: url("/public/Space\ Aesthetic\ Desktop_Laptop\ Wallpaper.jpeg"); */
+  background-color: black;
   overflow-y: hidden;
   display: flex;
   justify-content: center;
