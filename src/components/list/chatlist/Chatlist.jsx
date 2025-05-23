@@ -1,5 +1,5 @@
 import React from "react";
-import "./chatlist.css";
+import "./Chatlist.css";
 import { useState } from "react";
 import Adduser from "./adduser/Adduser";
 import { useUserStore } from "../../../lib/userStore";
